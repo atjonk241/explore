@@ -2,8 +2,7 @@
 
 Hi there! We're excited you've got ideas to improve topics and collections. You're helping the community discover valuable information.
 
-This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
-
+This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By p
 There are a few ways you can contribute:
 
 - Improving an existing topic or collection
@@ -76,10 +75,7 @@ Drop the code bass with these musically themed repositories.
 
 ---
 
-The [pull request template](./.github/PULL_REQUEST_TEMPLATE.md) also provides guidance on the information you need to include.
-
-**Please fill out the pull request template completely.** If you do not fill out the template, your PR will be closed.
-
+The [pull request template](./.git
 ## Curating a new topic or collection
 
 If a topic or collection is not yet curated, it will NOT be listed in its respective directory.
